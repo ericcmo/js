@@ -1,8 +1,4 @@
-# Este es el repositorio de de JS
-
-# Este es el repositorio de ejercicios JS
-
-askjdh
+# Este es el repositorio de ejercicios de JS
 
 ### ALGO
 
@@ -23,5 +19,7 @@ La funcion `promt()` es para solicitar datos al usuario
 `console.error()`
 
 `console.info()`
+
+### ALGO
 
 `isNAN()`
